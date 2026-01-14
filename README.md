@@ -1,2 +1,2 @@
-# motompg-support
-Support page for MotoMPG App
+# motorcyclemate-support
+Support page for MotorcycleMate App
